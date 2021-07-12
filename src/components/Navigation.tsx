@@ -10,8 +10,8 @@ export default function Navigation() {
                     height={75}
                     style={{ marginRight: 'auto' }}
                 />
-                <a className="text-blue-100 nav-item">About Us</a>
-                <a className="text-blue-100 nav-item">Challenge</a>
+                <a className="text-blue-100 nav-item" href="/">About Us</a>
+                <a className="text-blue-100 nav-item" href="/">Challenge</a>
                 <a href="#mission">
                     <button
                         className="nav-btn"
